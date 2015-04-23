@@ -1,0 +1,37 @@
+/**
+* this is a span replacer for ObamaLizard text
+*
+*@author Merlin, Leonardt
+*/
+@CHARSET "ISO-8859-1";
+
+.lizardObamaTitle:after {
+    font-family: underwood;
+    color: #DEA600;
+    content: 'Barack Obama ist der Echsenkönig';
+}
+
+.lizardObama1:after {
+    content: 'Mehr als 12 millionen Amerikaner glauben das riesige Echsen in Anzügen die Vereinigten Staaten leiten.';
+}
+
+.lizardObama2:after {
+    content: 'Die Verschwörungstheorie, welche nahe legt, dass Präsident Barack Obama eine Art realer Echsen-König ist, wird von ungefähr 12,5m Menschen geglaubt ( 4% der Population der USA), behauptet ein Bericht von Public Policy Polling.';
+}
+
+.lizardObama3:after {
+    content: 'Aber die Echsen-Theorie war mitnichten die einzige unheimliche Idee mit halt in der Bevölkerung der mächtigsten Nation der Welt.Genauso wie er eine Eidechse ist, ist Obama laut Millionen von Amerikaner auch der Teufel selbst.';
+}
+
+.lizardObama4:after {
+    content: ' Hochgerechnete Zahlen aus der Umfrage zeigen, dass mehr als 40 Millionen Leute dieser Idee anhängen, vielleicht angeregt von einer küzlich gesendeten History Channel Sendung welche einen Obama sehr ähnlichen Schauspieler als Satan besetzt.';
+}
+
+.lizardObama5:after {
+    content: 'Mehr als einer in 10 Amerikanern denkt ihre eigene Regierung gab grünes Licht für die Terroranschläge am 11.9 auf das World Trade Centre in New York. Fast das Dreifache an Leuten (28%) denken der frühere irakische Diktator Saddam Hussein sei der Dratzieher hinter den Attacken.';
+}
+
+.lizardObama6:after {
+    content: 'Die populärste Theorie von allen war die klassische Verschwörungstheorie die die Ermordung des John F. Kennedy 1963 umgibt. Die behauptet die Tötung war das Werk von mysteriösen Kräften, anstatt Lee Harvey Oswald. Ungefähr eine von zwei Personen gab an der wohl berühmtesten Verschwörungstheorie der Welt zu folgen.Am zweit populärsten war die Behauptung, dass der frühere Präsident George W Bush über Massenvernichtungswaffen gelogen hat, in Vorbereitung auf die Invasion des Iraks in 2003. Von den Befragten glaubten 44% dies, representativ für 138.122.178 Menschen aus der gesamten Population der US.Auf dem nächsten Platz folgte die globale Erwärmung, mit 37% die behaupten der Klimawandel sei ein Schwindel der von Wissenschaftlern erfunden sei. Vierzehn Prozent glauben Bigfoot ist real. Die gleiche Anzahl glaubt Crack Cocaine wurde vom CIA als Gehirnkontrollwerkzeug entwickelt.Und der frühere Beatle Paul McCartney wird von 5% der Bevölkerung schon seit 47 Jahren tot geglaubt.Viele Leute halten die Fülle an Verschwörungstheorien als bezeichnend für die Online-Kulur, in welcher das Internet haarsträubenden Ideen zu Glaubwürdigkeit verhelfen.Trotzdem hat, laut 5% der Amerikaner, die Regierung bereits Schritte eingeleitet solche potenziell aufrührerischen Aktivitäten zu zügeln, indem sie die Öffentlichkeit Gehirnkontrollgasen durch Flugzeug-Kondensstreifen aussetzen.';
+}
+

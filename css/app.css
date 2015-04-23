@@ -1,0 +1,46 @@
+/*
+*This is a custom css file
+*
+*@author Merlin,Leonardt
+*/
+@CHARSET "ISO-8859-1";
+
+@font-face {
+    font-family: headliner;
+    src: url(../fonts/Headliner.ttf);
+}
+
+@font-face {
+    font-family: underwood;
+    src: url(../fonts/MyUnderwood.ttf);
+}
+
+
+.row {
+    max-width: 80%;
+    background-color:white;
+}
+
+.borders {
+    max-width: 100%;
+    background-color:#EDB611;
+}
+
+.button {
+    font-family:underwood;
+}
+
+.evil:hover {
+    color: red; 
+    background-color: black;
+}
+
+.evil:hover:after {
+    visibility: visible;
+    position: absolute;
+    top: -100;
+    left: 0;
+    background-color: black;
+    color: red;
+    content: 'EVIL';
+}
